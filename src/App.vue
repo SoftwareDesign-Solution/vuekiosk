@@ -1,12 +1,19 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+
 </script>
 
 <template>
   <header>
     <h1>vuekiosk</h1>
   </header>
+
+  <nav>
+    <RouterLink to="/">Home</RouterLink>
+    <RouterLink to="/about">About</RouterLink>
+    <RouterLink to="/highscore">Highscore</RouterLink>
+    <RouterLink to="/history">History</RouterLink>
+  </nav>
 
   <main>
     <RouterView />

@@ -8,6 +8,10 @@ import router from './router'
 
 const app = createApp(App)
 
+// Initialize Api
+const apiUrl = 'http://my-json-server.typicode.com/softwaredesign-solution/vuekiosk';
+app.provide('apiUrl', apiUrl);
+
 app.use(createPinia())
 app.use(router)
 
