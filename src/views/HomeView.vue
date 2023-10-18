@@ -10,6 +10,8 @@ const cartStore = useCartStore();
 
 const { itemsCounter } = storeToRefs(cartStore);
 
+const { clearItems } = cartStore;
+
 const selectedUser = ref<User | null>(null);
 
 const userSelected = (user: User) => {
@@ -19,6 +21,7 @@ const userSelected = (user: User) => {
 
 const cancelAction = () => {
   selectedUser.value = null;
+  clearItems();
 }
 </script>
 
