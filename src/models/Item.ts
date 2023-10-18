@@ -5,3 +5,7 @@ type Item = {
     imagePath: string;
     price: number;
 }
+
+export type {
+    Item
+};
