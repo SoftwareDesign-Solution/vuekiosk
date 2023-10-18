@@ -1,0 +1,213 @@
+{
+    "Users": {
+        "success": true,
+        "users": [
+            {
+                "id": 1,
+                "name": "Max Mustermann",
+                "avatarPath": "/uploads/avatar/marshall.jpeg",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 2,
+                "name": "Manuel Neuer",
+                "avatarPath": "/uploads/avatar/niessnerj.png",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 3,
+                "name": "Thomas Müller",
+                "avatarPath": "/uploads/avatar/keilwerth.jpeg",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 4,
+                "name": "Ronaldo",
+                "avatarPath": "/uploads/avatar/weig.jpeg",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 5,
+                "name": "Messi",
+                "avatarPath": "/uploads/avatar/gallitzdoerfer.png",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 6,
+                "name": "Ruffy D Monkey",
+                "avatarPath": "/uploads/avatar/celik.png",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 7,
+                "name": "Son Goku",
+                "avatarPath": "/uploads/avatar/steinerj.png",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 8,
+                "name": "Homer Simpson",
+                "avatarPath": "/uploads/avatar/niessner.png",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 9,
+                "name": "Rick Sanchez",
+                "avatarPath": "/uploads/avatar/schmitzm.jpeg",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 12,
+                "name": "Morty Sanchez",
+                "avatarPath": "/uploads/avatar/Nunekpeku.jpeg",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 13,
+                "name": "Nami",
+                "avatarPath": "/uploads/avatar/reiter.jpg",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 14,
+                "name": "Robin",
+                "avatarPath": "/uploads/avatar/fuchs.png",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 15,
+                "name": "Vegeta",
+                "avatarPath": "/uploads/avatar/sax.jpg",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 16,
+                "name": "Bulma",
+                "avatarPath": "/uploads/avatar/anzer.png",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 19,
+                "name": "Sophia Flörsch",
+                "avatarPath": "/uploads/avatar/riedl.jpg",
+                "email": "max.mustermann@mail.com"
+            },
+            {
+                "id": 10,
+                "name": "Kim Irmgartz",
+                "avatarPath": "/uploads/avatar/unlocked.png",
+                "email": "max.mustermann@mail.com"
+            }
+        ]
+    },
+    "Items": {
+        "success": true,
+        "items": [
+            {
+                "id": 1,
+                "name": "Fritz Kola",
+                "description": "Willkommen im Wach",
+                "imagePath": "/uploads/item/FritzKola.png",
+                "price": 2
+            },
+            {
+                "id": 2,
+                "name": "Apfel",
+                "description": "Keeps the Doctor away",
+                "imagePath": "/uploads/item/Apfel.png",
+                "price": 0.5
+            },
+            {
+                "id": 3,
+                "name": "Banane",
+                "description": "Warum ist sie krumm?",
+                "imagePath": "/uploads/item/Banane.png",
+                "price": 0.5
+            },
+            {
+                "id": 4,
+                "name": "Bayreuther Hell",
+                "description": "ehrlich, frisch und würzig",
+                "imagePath": "/uploads/item/Bayreuther.png",
+                "price": 1.5
+            },
+            {
+                "id": 5,
+                "name": "Dr. Pepper",
+                "description": "This is the taste",
+                "imagePath": "/uploads/item/DrPepper.png",
+                "price": 1.5
+            },
+            {
+                "id": 6,
+                "name": "Eistee",
+                "description": "Pfirsich > Zitrone",
+                "imagePath": "/uploads/item/Eistee.png",
+                "price": 1
+            },
+            {
+                "id": 7,
+                "name": "Kaffee",
+                "description": "Treibstoff für Programmierer",
+                "imagePath": "/uploads/item/Kaffee.png",
+                "price": 0.2
+            },
+            {
+                "id": 8,
+                "name": "Orangen Limo",
+                "description": "Bad Brambacher - Von der Natur zum Menschen",
+                "imagePath": "/uploads/item/Limo.png",
+                "price": 1
+            },
+            {
+                "id": 9,
+                "name": "Spezi",
+                "description": "Bad Brambacher - Von der Natur zum Menschen",
+                "imagePath": "/uploads/item/Spezi.png",
+                "price": 1
+            },
+            {
+                "id": 10,
+                "name": "Apfel Schorle",
+                "description": "Bad Brambacher - Von der Natur zum Menschen",
+                "imagePath": "/uploads/item/Schorle.png",
+                "price": 1
+            },
+            {
+                "id": 11,
+                "name": "Mineralwasser",
+                "description": "Bad Brambacher - Von der Natur zum Menschen",
+                "imagePath": "/uploads/item/Wasser.png",
+                "price": 0.5
+            },
+            {
+                "id": 12,
+                "name": "Red Bull",
+               "description": "verleiht Flügel",
+                "imagePath": "/uploads/item/RedBull.png",
+                "price": 2
+            },
+            {
+                "id": 13,
+                "name": "Schokoriegel",
+                "description": "sei keine Diva",
+                "imagePath": "/uploads/item/Riegel.png",
+                "price": 0.5
+            },
+            {
+                "id": 15,
+                "name": "Magnum Eis",
+                "description": "",
+                "imagePath": "/uploads/item/Magnum2.png",
+                "price": 1
+            },
+            {
+                "id": 16,
+                "name": "Capri / Nusshörnchen",
+                "description": "",
+                "imagePath": "/uploads/item/Capri_Nuss.png",
+                "price": 0.7
+            }
+        ]
+    }
+}
